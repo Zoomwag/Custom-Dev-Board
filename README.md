@@ -20,7 +20,7 @@ This dev board is based on the Raspberry Pi RP2040 microcontroller that i deigne
 
 ---
 
-## 🖼️ Images
+##  Images
 
 ### Schematic
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/7d9b7220-2b49-44cc-a1fe-5835bd969ad1" />
@@ -38,14 +38,6 @@ Here you can see a 3d model of the PCB
 
 ---
 
-## Hardware Design
-
-The board was designed from scratch, including:
-
-- Custom schematic capture
-- PCB routing and optimization
-- Component selection and footprint matching
-- Consideration for manufacturability
 
 ---
 
